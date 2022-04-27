@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w1zard
 - 👀 I’m interested in Electrical Engeenering, IT and Solar Systems
-- 🌱 I’m currently learning  Electrical Engeenering, Solar Systems and Want got a certificate in IT
+- 🌱 I’m currently learning  Electrical Engeenering, Solar Systems and want got a certificate in IT
 - 📫 How to reach me datuna.gorelishvili@gmail.com
 
 <!---
